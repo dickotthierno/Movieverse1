@@ -70,6 +70,9 @@ Movieverse is a social platform where you can share your film tastes. Use it as 
    * [list screen navigation here]
    * ...
 
+## Video Walkthrough
+
+
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
