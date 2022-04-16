@@ -71,6 +71,9 @@ Movieverse is a social platform where you can share your film tastes. Use it as 
    * ...
 
 ## Video Walkthrough
+Here's a walkthrough of implemented user stories:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Wireframes
