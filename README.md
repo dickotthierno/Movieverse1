@@ -35,6 +35,7 @@ Movieverse is a social platform where you can share your film tastes. Use it as 
 - [ ] Users can view their own list of movies they want to watch
 - [ ] Users can view the watch list of other people
 - [ ] Users can see a feed of their own and other's watchlists
+- [ ] Navigation Bar
 
 **Optional User Stories**
 
